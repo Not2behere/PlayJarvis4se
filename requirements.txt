@@ -1,2 +1,0 @@
-jarvis4se
-pandas
